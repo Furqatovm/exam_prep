@@ -5,3 +5,7 @@
 body{
     font-family: "Nunito Sans", sans-serif;
 }
+
+.clie::-webkit-scrollbar{
+    display: none;
+}
